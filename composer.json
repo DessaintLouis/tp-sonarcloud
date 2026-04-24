@@ -1,0 +1,21 @@
+{
+    "name": "login5538/tp-sonarcloud",
+    "description": "TP BTS SIO",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Louis Dessaint",
+            "email": "louisdessa@gmail.com"
+        }
+    ],
+    "autoload": { 
+
+    "psr-4": { 
+    
+    "": "src/" } ,
+    "require": {}
+},
+    "require-dev": {
+        "phpunit/phpunit": "^11.5"
+    }
+}
